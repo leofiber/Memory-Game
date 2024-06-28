@@ -3,7 +3,7 @@ Welcome to the Memory Game project! This fun and interactive web application cha
 
 Highlights
 Engaging Gameplay: Flip cards to reveal their images and find matching pairs.
-Variety of Themes: Customize the game with different card themes.
+Variety of Themes: Customize the game with different card themes. 
 Adaptive Difficulty: Choose between easy, medium, and hard levels.
 Responsive Design: Enjoy the game on any device, from desktop to mobile.
 Smooth Animations: Delight in fluid animations and a polished user interface.
